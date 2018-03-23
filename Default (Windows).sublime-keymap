@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+x"], "command": "awselecttofile" },
+	{ "keys": ["alt+p"], "command": "expand_selection_to_paragraph" },
+	{ "keys": ["alt+ctrl+l"], "command": "reindent" }
+]
